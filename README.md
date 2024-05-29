@@ -2,18 +2,38 @@
 <h1 align="center">Hi 👋, I'm Munucrafts | Sarthak Mishra</h1>
 <h3 align="center">| Unreal Engine Developer | Unreal Blueprints & C++, GameDev, XR, ArchViz, Godot |</h3>
 
-👨‍💻 My Portfolio Website https://munucrafts.com
+<table>
+  <tr>
+    <td>
+      <p align="left">
+        👨‍💻 <strong>My Portfolio Website:</strong> <a href="https://munucrafts.com" target="blank">munucrafts.com</a><br>
+        💬 <strong>Talk to me about:</strong> Unreal Engine, Godot, Game Development<br>
+        📫 <strong>Reach me at:</strong> <a href="mailto:sarthakmishra520@gmail.com">sarthakmishra520@gmail.com</a>
+      </p>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=munucrafts&show_icons=true&locale=en&layout=compact&theme=dark" alt="munucrafts" />
+    </td>
+  </tr>
+</table>
 
-💬 Talk to me about Unreal Engine, Godot, Game Development.
-
-📫 Reach me at sarthakmishra520@gmail.com
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=munucrafts&show_icons=true&locale=en&layout=compact&theme=dark" alt="munucrafts" /></p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://munucrafts.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="munucrafts" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/munucrafts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="munucrafts" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@munucrafts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="munucrafts" height="30" width="40" /></a>
-</p>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/munucrafts"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="munucrafts" /></a></p><br><br>
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://twitter.com/munucrafts" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="munucrafts" height="30" width="40" />
+      </a>
+      <a href="https://linkedin.com/in/munucrafts" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="munucrafts" height="30" width="40" />
+      </a>
+      <a href="https://www.youtube.com/@munucrafts" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="munucrafts" height="30" width="40" />
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://www.buymeacoffee.com/munucrafts">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="munucrafts" />
+      </a>
+    </td>
+  </tr>
+</table>
