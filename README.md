@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/munucrafts/munucrafts/blob/main/Banner.gif" alt="MasterHead" width="500"/>
+      <img src="https://github.com/munucrafts/munucrafts/blob/main/Banner.gif" alt="MasterHead" width="475"/>
     </td>
     <td>
       <h1 align="center">Hi 👋, I'm Munucrafts | Sarthak Mishra</h1>
