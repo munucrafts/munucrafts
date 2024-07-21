@@ -5,7 +5,7 @@
     </td>
     <td>
       <h1 align="center">Hi 👋, I'm Munucrafts | Sarthak Mishra</h1>
-      <h3 align="center">| Unreal Engine Developer | Unreal Blueprints & C++, GameDev, XR, ArchViz, Godot |</h3>
+      <h3 align="center">| Game Developer | Unreal Engine (Blueprints & C++), Godot, PyGame | ArchViz, XR, Synthetic Data Generation |</h3>
     </td>
   </tr>
 </table>
