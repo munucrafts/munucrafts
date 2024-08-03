@@ -1,12 +1,11 @@
 <h3 align="left">GitHub Stats :</h3>
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=munucrafts&theme=default" alt="munucrafts" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munucrafts&show_icons=true&locale=en&layout=compact&theme=default" alt="munucrafts" />
 </p>
 <br clear="both" />
 
-<h3 align="left">Unreal Engine and Godot Engine Repos :</h3>
+<h3 align="left">Unreal Engine and Godot Repos :</h3>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <a href="https://github.com/munucrafts/UE_ArchViz_Multiplayer" style="display: block;">
