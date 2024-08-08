@@ -1,37 +1,30 @@
-<h3 align="left">GitHub Stats :</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munucrafts&show_icons=true&locale=en&layout=compact&theme=default" alt="munucrafts" />
-</p>
-<br clear="both" />
-
 <h3 align="left">Unreal Engine and Godot Repos :</h3>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <a href="https://github.com/munucrafts/UE_ArchViz_Multiplayer" style="display: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE_ArchViz_Multiplayer&theme=default" alt="UE_ArchViz_Multiplayer" />
+  <a href="https://github.com/munucrafts/UE-ArchViz-Multiplayer" style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-ArchViz-Multiplayer&theme=default" alt="UE-ArchViz-Multiplayer" />
   </a>
-  <a href="https://github.com/munucrafts/Cpp_UE_Get_Thumbnails" style="display: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=Cpp_UE_Get_Thumbnails&theme=default" alt="Cpp_UE_Get_Thumbnails" />
+  <a href="https://github.com/munucrafts/CPP-UE-GetThumbnails" style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-GetThumbnails&theme=default" alt="CPP-UE-GetThumbnails" />
   </a>
-  <a href="https://github.com/munucrafts/Cpp_UE_Hoverboard" style="display: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=Cpp_UE_Hoverboard&theme=default" alt="Cpp_UE_Hoverboard" />
+  <a href="https://github.com/munucrafts/CPP-UE-Hoverboard" style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-Hoverboard&theme=default" alt="CPP-UE-Hoverboard" />
   </a>
-  <a href="https://github.com/munucrafts/Pack_Zip_S3upload_Unreal_Bat" style="display: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=Pack_Zip_S3upload_Unreal_Bat&theme=default" alt="Pack_Zip_S3upload_Unreal_Bat" />
+  <a href="https://github.com/munucrafts/UE-Pack-Zip-S3upload" style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-Pack-Zip-S3upload&theme=default" alt="UE-Pack-Zip-S3upload" />
   </a>
-  <a href="https://github.com/munucrafts/GD_Pixelo_Pixel_Art_Maker" style="display: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=GD_Pixelo_Pixel_Art_Maker&theme=default" alt="GD_Pixelo_Pixel_Art_Maker" />
+  <a href="https://github.com/munucrafts/GD-Pixelo-PixelArtMaker" style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=GD-Pixelo-PixelArtMaker&theme=default" alt="GD-Pixelo-PixelArtMaker" />
   </a>
 </div>
 
 <h3 align="left">Other Repos :</h3>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <a href="https://github.com/munucrafts/PY_Desktop_Pet_Ducky" style="display: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY_Desktop_Pet_Ducky&theme=default" alt="PY_Desktop_Pet_Ducky" />
+  <a href="https://github.com/munucrafts/PY-DesktopPet-Ducky" style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DesktopPet-Ducky&theme=default" alt="PY-DesktopPet-Ducky" />
   </a>
-  <a href="https://github.com/munucrafts/PY_Particle_System" style="display: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY_Particle_System&theme=default" alt="PY_Particle_System" />
+  <a href="https://github.com/munucrafts/PY-DynamicParticleSystem" style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DynamicParticleSystem&theme=default" alt="PY-DynamicParticleSystem" />
   </a>
 </div>
