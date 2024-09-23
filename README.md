@@ -1,6 +1,4 @@
-**`Software Engineer / Unreal Engine Developer`**
-
-I'm an Unreal Engine developer who works on various projects, including ArchViz, VR, MR, Synthetic Data Generation, and Video Games. I also work on various hobby projects using Unreal Engine, Godot, PyGame, and much more in my free time, some of which are shown here.
+I'm a Software Engineer/Unreal Engine developer who works on various projects, including ArchViz, VR, MR, Synthetic Data Generation, Digital Twin, and Video Games. I also work on various hobby projects using Unreal Engine, Godot, PyGame, C++, Python, and much more in my free time, some of which are shown here.
 
 ---
 
