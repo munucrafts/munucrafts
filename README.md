@@ -1,6 +1,6 @@
-I'm a Software Engineer / Unreal Engine Developer who works on various projects, including ArchViz, VR, MR, Synthetic Data Generation, Digital Twin, and Video Games. I also work on various hobby projects using Unreal Engine, Godot, PyGame, C++, Python, and much more in my free time, some of which are shown here. 
+I'm a Software Engineer / Unreal Engine Developer who works on a wide range of projects, including ArchViz, VR, MR, Synthetic Data Generation, Digital Twin, and Video Games. In my free time, I also enjoy working on various hobby projects using Unreal Engine, Godot, PyGame, C++, Python, and more, many of which are featured here.
 
-I am also trying to publish GameDev content on my YouTube channel [Munucrafts](https://www.youtube.com/@munucrafts) whenever I can. Please consider subscribing if you like GameDev content and drop your suggestions in the comments if you would want to see something specific.
+I'm also publishing GameDev content on my YouTube channel [Munucrafts](https://www.youtube.com/@munucrafts) whenever possible. If you're interested in GameDev, consider subscribing, and feel free to drop suggestions in the comments for any specific content you'd like to see. 
 <p align="left">
     <a href="https://www.youtube.com/@munucrafts" target="_blank">
         <img alt="Subscribe to my YouTube channel" title="Subscribe to my YouTube channel" 
