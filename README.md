@@ -30,4 +30,6 @@ I'm also publishing GameDev content on my YouTube channel [Munucrafts](https://w
   <a href="https://github.com/munucrafts/PY-DynamicParticleSystem" style="display: block;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DynamicParticleSystem&theme=default" alt="PY-DynamicParticleSystem" />
   </a>
+  <a href="https://github.com/munucrafts/PY-DigitalTwin-Examples" style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DigitalTwin-Examples&theme=default" alt="PY-DigitalTwin-Examples" />
 </div>
