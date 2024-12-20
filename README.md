@@ -8,25 +8,25 @@ I'm also publishing GameDev content on my YouTube channel [Munucrafts](https://w
     </a>
 </p>
 
-<div style="default: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <a href="https://default.com/munucrafts/UE-ArchViz-Multiplayer" style="default: block;">
-    <img src="https://default-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-ArchViz-Multiplayer&theme=default" alt="UE-ArchViz-Multiplayer" />
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <a href="https://github.com/munucrafts/UE-ArchViz-Multiplayer" style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-ArchViz-Multiplayer&theme=default" alt="UE-ArchViz-Multiplayer" />
   </a>
-  <a href="https://default.com/munucrafts/CPP-UE-GetThumbnails" style="default: block;">
-    <img src="https://default-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-GetThumbnails&theme=default" alt="CPP-UE-GetThumbnails" />
+  <a href="https://github.com/munucrafts/CPP-UE-GetThumbnails" style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-GetThumbnails&theme=default" alt="CPP-UE-GetThumbnails" />
   </a>
-  <a href="https://default.com/munucrafts/CPP-UE-Hoverboard" style="default: block;">
-    <img src="https://default-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-Hoverboard&theme=default" alt="CPP-UE-Hoverboard" />
+  <a href="https://github.com/munucrafts/CPP-UE-Hoverboard" style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-Hoverboard&theme=default" alt="CPP-UE-Hoverboard" />
   </a>
-  <a href="https://default.com/munucrafts/UE-Pack-Zip-S3upload" style="default: block;">
-    <img src="https://default-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-Pack-Zip-S3upload&theme=default" alt="UE-Pack-Zip-S3upload" />
+  <a href="https://github.com/munucrafts/UE-Pack-Zip-S3upload" style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-Pack-Zip-S3upload&theme=default" alt="UE-Pack-Zip-S3upload" />
   </a>
-  <a href="https://default.com/munucrafts/GD-Pixelo-PixelArtMaker" style="default: block;">
-    <img src="https://default-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=GD-Pixelo-PixelArtMaker&theme=default" alt="GD-Pixelo-PixelArtMaker" />
+  <a href="https://github.com/munucrafts/GD-Pixelo-PixelArtMaker" style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=GD-Pixelo-PixelArtMaker&theme=default" alt="GD-Pixelo-PixelArtMaker" />
   </a>
-    <a href="https://default.com/munucrafts/PY-DesktopPet-Ducky" style="default: block;">
-    <img src="https://default-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DesktopPet-Ducky&theme=default" alt="PY-DesktopPet-Ducky" />
+    <a href="https://github.com/munucrafts/PY-DesktopPet-Ducky" style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DesktopPet-Ducky&theme=default" alt="PY-DesktopPet-Ducky" />
   </a>
-  <a href="https://default.com/munucrafts/PY-DynamicParticleSystem" style="default: block;">
-    <img src="https://default-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DynamicParticleSystem&theme=default" alt="PY-DynamicParticleSystem" />
+  <a href="https://github.com/munucrafts/PY-DynamicParticleSystem" style="display: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DynamicParticleSystem&theme=default" alt="PY-DynamicParticleSystem" />
 </div>
