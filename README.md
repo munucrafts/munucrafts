@@ -1,6 +1,8 @@
+# Hi, I'm Sarthak 👋
+
 I'm a Software Engineer / Unreal Engine Developer who works on a wide range of projects, including ArchViz, VR, MR, Synthetic Data Generation, Digital Twin, and Video Games. In my free time, I also enjoy working on various hobby projects using Unreal Engine, Godot, PyGame, C++, Python, and more, many of which are featured here.
 
-I'm also publishing GameDev content on my YouTube channel [Munucrafts](https://www.youtube.com/@munucrafts) whenever possible. If you're interested in GameDev, consider subscribing, and feel free to drop suggestions in the comments for any specific content you'd like to see. 
+I'm also publishing GameDev and programming content on my YouTube channel [Munucrafts](https://www.youtube.com/@munucrafts) whenever possible. If you're into that stuff, consider subscribing, and feel free to drop suggestions in the comments for any specific content you'd like to see. 
 <p align="left">
     <a href="https://www.youtube.com/@munucrafts" target="_blank">
         <img alt="Subscribe to my YouTube channel" title="Subscribe to my YouTube channel" 
@@ -8,25 +10,33 @@ I'm also publishing GameDev content on my YouTube channel [Munucrafts](https://w
     </a>
 </p>
 
-<div style="light: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <a href="https://github.com/munucrafts/UE-ArchViz-Multiplayer" style="light: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-ArchViz-Multiplayer&theme=light" alt="UE-ArchViz-Multiplayer" />
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munucrafts&layout=compact&theme=dark&hide=html,css)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=munucrafts&show_icons=true&hide=prs,issues&count_private=true&hide_rank=true&theme=dark)
+
+## Public Repositories
+
+<div style="dark: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <a href="https://github.com/munucrafts/UE-ArchViz-Multiplayer" style="dark: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-ArchViz-Multiplayer&theme=dark" alt="UE-ArchViz-Multiplayer" />
   </a>
-  <a href="https://github.com/munucrafts/CPP-UE-GetThumbnails" style="light: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-GetThumbnails&theme=light" alt="CPP-UE-GetThumbnails" />
+  <a href="https://github.com/munucrafts/CPP-UE-GetThumbnails" style="dark: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-GetThumbnails&theme=dark" alt="CPP-UE-GetThumbnails" />
   </a>
-  <a href="https://github.com/munucrafts/CPP-UE-Hoverboard" style="light: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-Hoverboard&theme=light" alt="CPP-UE-Hoverboard" />
+  <a href="https://github.com/munucrafts/CPP-UE-Hoverboard" style="dark: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-Hoverboard&theme=dark" alt="CPP-UE-Hoverboard" />
   </a>
-  <a href="https://github.com/munucrafts/UE-Pack-Zip-S3upload" style="light: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-Pack-Zip-S3upload&theme=light" alt="UE-Pack-Zip-S3upload" />
+  <a href="https://github.com/munucrafts/UE-Pack-Zip-S3upload" style="dark: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-Pack-Zip-S3upload&theme=dark" alt="UE-Pack-Zip-S3upload" />
   </a>
-  <a href="https://github.com/munucrafts/GD-Pixelo-PixelArtMaker" style="light: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=GD-Pixelo-PixelArtMaker&theme=light" alt="GD-Pixelo-PixelArtMaker" />
+  <a href="https://github.com/munucrafts/GD-Pixelo-PixelArtMaker" style="dark: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=GD-Pixelo-PixelArtMaker&theme=dark" alt="GD-Pixelo-PixelArtMaker" />
   </a>
-    <a href="https://github.com/munucrafts/PY-DesktopPet-Ducky" style="light: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DesktopPet-Ducky&theme=light" alt="PY-DesktopPet-Ducky" />
+    <a href="https://github.com/munucrafts/PY-DesktopPet-Ducky" style="dark: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DesktopPet-Ducky&theme=dark" alt="PY-DesktopPet-Ducky" />
   </a>
-  <a href="https://github.com/munucrafts/PY-DynamicParticleSystem" style="light: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DynamicParticleSystem&theme=light" alt="PY-DynamicParticleSystem" />
+  <a href="https://github.com/munucrafts/PY-DynamicParticleSystem" style="dark: block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DynamicParticleSystem&theme=dark" alt="PY-DynamicParticleSystem" />
 </div>
