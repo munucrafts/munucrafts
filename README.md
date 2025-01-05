@@ -10,11 +10,21 @@ I'm also publishing GameDev and programming content on my YouTube channel [Munuc
     </a>
 </p>
 
-## GitHub Stats
+## Skills
+
+![Game Programming](https://img.shields.io/badge/Game%20Programming-FF5733?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0076CC?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unreal Blueprints](https://img.shields.io/badge/Unreal%20Blueprints-1E90FF?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Unreal C++](https://img.shields.io/badge/Unreal%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![PyGame](https://img.shields.io/badge/PyGame-00C300?style=for-the-badge&logo=python&logoColor=white)
+![Virtual Reality](https://img.shields.io/badge/Virtual%20Reality-0A66C2?style=for-the-badge&logo=oculus&logoColor=white)
+![ArchViz](https://img.shields.io/badge/ArchViz-FF8C00?style=for-the-badge&logo=autodesk&logoColor=white)
+![Digital Twin](https://img.shields.io/badge/Digital%20Twin-3CB371?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munucrafts&layout=compact&theme=dark&hide=html,CSS&card_width=1000)
-
-
 
 ## Public Repositories
 
