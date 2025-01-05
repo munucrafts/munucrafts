@@ -28,7 +28,7 @@ I'm also publishing GameDev and programming content on my YouTube channel [Munuc
 
 ## Public Repositories
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 50px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px;">
   <a href="https://github.com/munucrafts/UE-ArchViz-Multiplayer" style="display: block; max-width: 1000px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-ArchViz-Multiplayer&theme=dark" alt="UE-ArchViz-Multiplayer" style="width: 300px;" />
   </a>
