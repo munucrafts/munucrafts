@@ -12,9 +12,9 @@ I'm also publishing GameDev and programming content on my YouTube channel [Munuc
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munucrafts&layout=compact&theme=dark&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munucrafts&layout=compact&theme=dark&hide=html,CSS&card_width=1000)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=munucrafts&show_icons=true&hide=prs,issues&count_private=true&hide_rank=true&theme=dark)
+
 
 ## Public Repositories
 
