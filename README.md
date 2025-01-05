@@ -28,25 +28,26 @@ I'm also publishing GameDev and programming content on my YouTube channel [Munuc
 
 ## Public Repositories
 
-<div style="dark: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <a href="https://github.com/munucrafts/UE-ArchViz-Multiplayer" style="dark: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-ArchViz-Multiplayer&theme=dark" alt="UE-ArchViz-Multiplayer" />
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 50px;">
+  <a href="https://github.com/munucrafts/UE-ArchViz-Multiplayer" style="display: block; max-width: 1000px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-ArchViz-Multiplayer&theme=dark" alt="UE-ArchViz-Multiplayer" style="width: 300px;" />
   </a>
-  <a href="https://github.com/munucrafts/CPP-UE-GetThumbnails" style="dark: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-GetThumbnails&theme=dark" alt="CPP-UE-GetThumbnails" />
+  <a href="https://github.com/munucrafts/CPP-UE-GetThumbnails" style="display: block; max-width: 1000px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-GetThumbnails&theme=dark" alt="CPP-UE-GetThumbnails" style="width: 300px;" />
   </a>
-  <a href="https://github.com/munucrafts/CPP-UE-Hoverboard" style="dark: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-Hoverboard&theme=dark" alt="CPP-UE-Hoverboard" />
+  <a href="https://github.com/munucrafts/CPP-UE-Hoverboard" style="display: block; max-width: 1000px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-Hoverboard&theme=dark" alt="CPP-UE-Hoverboard" style="width: 300px;" />
   </a>
-  <a href="https://github.com/munucrafts/UE-Pack-Zip-S3upload" style="dark: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-Pack-Zip-S3upload&theme=dark" alt="UE-Pack-Zip-S3upload" />
+  <a href="https://github.com/munucrafts/UE-Pack-Zip-S3upload" style="display: block; max-width: 1000px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-Pack-Zip-S3upload&theme=dark" alt="UE-Pack-Zip-S3upload" style="width: 300px;" />
   </a>
-  <a href="https://github.com/munucrafts/GD-Pixelo-PixelArtMaker" style="dark: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=GD-Pixelo-PixelArtMaker&theme=dark" alt="GD-Pixelo-PixelArtMaker" />
+  <a href="https://github.com/munucrafts/GD-Pixelo-PixelArtMaker" style="display: block; max-width: 1000px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=GD-Pixelo-PixelArtMaker&theme=dark" alt="GD-Pixelo-PixelArtMaker" style="width: 300px;" />
   </a>
-    <a href="https://github.com/munucrafts/PY-DesktopPet-Ducky" style="dark: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DesktopPet-Ducky&theme=dark" alt="PY-DesktopPet-Ducky" />
+  <a href="https://github.com/munucrafts/PY-DesktopPet-Ducky" style="display: block; max-width: 1000px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DesktopPet-Ducky&theme=dark" alt="PY-DesktopPet-Ducky" style="width: 300px;" />
   </a>
-  <a href="https://github.com/munucrafts/PY-DynamicParticleSystem" style="dark: block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DynamicParticleSystem&theme=dark" alt="PY-DynamicParticleSystem" />
+  <a href="https://github.com/munucrafts/PY-DynamicParticleSystem" style="display: block; max-width: 1000px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DynamicParticleSystem&theme=dark" alt="PY-DynamicParticleSystem" style="width: 300px;" />
+  </a>
 </div>
