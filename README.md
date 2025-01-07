@@ -6,7 +6,7 @@ I'm also publishing GameDev and programming content on my YouTube channel [Munuc
 <p align="left">
     <a href="https://www.youtube.com/@munucrafts" target="_blank">
         <img alt="Subscribe to my YouTube channel" title="Subscribe to my YouTube channel" 
-        src="https://custom-icon-badges.demolab.com/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+        src="https://custom-icon-badges.demolab.com/badge/Subscribe-white?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
 </p>
 
