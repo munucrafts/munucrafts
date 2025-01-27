@@ -1,6 +1,6 @@
 # Hi, I'm Sarthak 👋
 
-I'm a Software Engineer / Unreal Engine Developer who works with Unreal Engine, C++, Python, PyGame, Godot, ArchViz, Virtual Reality, Synthetic Data Generation, Digital Twin, Video Games, etc. Some of my personal projects are also featured below in the [Public Repositiories](https://github.com/munucrafts#public-repositories) section.
+I'm a Software Engineer / Unreal Engine Developer who works with Unreal Engine, C++, Python, PyGame, Godot, ArchViz, Virtual Reality, Synthetic Data Generation, Digital Twin, Video Games, etc. Some of my personal projects are also featured below.
 
 I'm also publishing GameDev and programming content on my YouTube channel [Munucrafts](https://www.youtube.com/@munucrafts) whenever possible. If you're into that stuff, consider subscribing, and feel free to drop suggestions in the comments for any specific content you'd like to see. 
 <p align="left">
