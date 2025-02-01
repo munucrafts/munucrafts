@@ -1,4 +1,4 @@
-# Hi, I'm Sarthak 👋  
+# Hi, I'm Sarthak 🛩️
 **`Software Engineer / Unreal Engine Developer`**
 
 I work with Unreal Engine, C++, Python, PyGame, Godot, ArchViz, Virtual Reality, Synthetic Data Generation, Digital Twin, Video Games, etc. Some of my personal projects are also featured below.
