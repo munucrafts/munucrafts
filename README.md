@@ -4,12 +4,6 @@
 I work with Unreal Engine, C++, Python, PyGame, Godot, ArchViz, Virtual Reality, Synthetic Data Generation, Digital Twin, Video Games, etc. Some of my personal projects are also featured below.
 
 I'm also publishing GameDev and programming content on my YouTube channel [Munucrafts](https://www.youtube.com/@munucrafts) whenever possible. If you're into that stuff, consider subscribing, and feel free to drop suggestions in the comments for any specific content you'd like to see. 
-<p align="left">
-    <a href="https://www.youtube.com/@munucrafts" target="_blank">
-        <img alt="Subscribe to my YouTube channel" title="Subscribe to my YouTube channel" 
-        src="https://custom-icon-badges.demolab.com/badge/Subscribe-white?style=for-the-badge&logo=youtube&logoColor=white"/>
-    </a>
-</p>
 
 ## Skills
 
