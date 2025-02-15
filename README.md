@@ -1,5 +1,5 @@
 # Hi, I'm Sarthak.
-<img src="https://img.shields.io/badge/Software%20Engineer%20/%20Unreal%20Engine%20Developer-5E60CE?style=for-the-badge" style="width: 375px; height: auto;">
+<img src="https://img.shields.io/badge/Software%20Engineer%20/%20Unreal%20Engine%20Developer-5E60CE?style=for-the-badge" style="width: 325px; height: auto;">
 
 I work with Unreal Engine, C++, Python, PyGame, Godot, ArchViz, Virtual Reality, Synthetic Data Generation, Digital Twin, Video Games, etc. Some of my personal projects are also featured below.
 
