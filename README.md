@@ -32,9 +32,6 @@ I'm also publishing GameDev and programming content on my YouTube channel [Munuc
   <a href="https://github.com/munucrafts/CPP-UE-GetThumbnails" style="display: block; max-width: 1000px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-GetThumbnails&theme=dark" alt="CPP-UE-GetThumbnails" style="width: 421px;" />
   </a>
-    <a href="https://github.com/munucrafts/My-Shadertoy-Shaders" style="display: block; max-width: 1000px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=My-Shadertoy-Shaders&theme=dark" alt="My-Shadertoy-Shaders" style="width: 421px;" />
-  </a>
   <a href="https://github.com/munucrafts/CPP-UE-Hoverboard" style="display: block; max-width: 1000px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-Hoverboard&theme=dark" alt="CPP-UE-Hoverboard" style="width: 421px;" />
   </a>
