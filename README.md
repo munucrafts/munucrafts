@@ -2,14 +2,16 @@
 <img src="https://img.shields.io/badge/Software%20Engineer%20/%20Unreal%20Engine%20Developer-5E60CE?style=for-the-badge" style="width: 375px; height: auto;">
 
 * I’m a Software Engineer and Game Developer working with Unreal Engine, C++, Python, PyGame, and Godot, specializing in ArchViz, Virtual Reality, Synthetic Data Generation, Digital Twin technology, and Video Games.
-* I enjoy writing GLSL computer shaders from time to time as well. If you are into computer graphics and shaders, you can check those out on my [Shadertoy](https://www.shadertoy.com/user/Munucrafts/sort=newest) profile.
+* I enjoy writing GLSL computer shaders in my free time as well. If you are into computer graphics and shaders, you can check those out on my [Shadertoy](https://www.shadertoy.com/user/Munucrafts/sort=newest) profile.
 * I'm also publishing GameDev and programming content on my YouTube channel [Munucrafts](https://www.youtube.com/@munucrafts) whenever possible. If you're into that stuff, consider subscribing, and feel free to drop suggestions in the comments for any specific content you'd like to see. 
 
 ## Skills
 
-![Game Programming](https://img.shields.io/badge/Game%20Programming-FF5733?style=for-the-badge&logo=unity&logoColor=white)
+![Game Programming](https://img.shields.io/badge/Game%20Programming-1E90FF?style=for-the-badge&logoColor=white)
+![Shader Programming](https://img.shields.io/badge/Shader%20Programming-5E60CE?style=for-the-badge&logoColor=white)
 ![Unreal Engine ( C++ & Blueprints )](https://img.shields.io/badge/Unreal%20Engine%20(%20C++%20&%20Blueprints%20)-0076CC?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![GLSL](https://img.shields.io/badge/glsl-5E60CE?style=for-the-badge&logo=opengl&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyGame](https://img.shields.io/badge/PyGame-00C300?style=for-the-badge&logo=python&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
