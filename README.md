@@ -1,9 +1,9 @@
 # Hi, I'm Sarthak.
 <img src="https://img.shields.io/badge/Software%20Engineer%20/%20Unreal%20Engine%20Developer-5E60CE?style=for-the-badge" style="width: 375px; height: auto;">
 
-I work with Unreal Engine, C++, Python, PyGame, Godot, ArchViz, Virtual Reality, Synthetic Data Generation, Digital Twin, Video Games, etc. Some of my personal projects are also featured below.
-
-I'm also publishing GameDev and programming content on my YouTube channel [Munucrafts](https://www.youtube.com/@munucrafts) whenever possible. If you're into that stuff, consider subscribing, and feel free to drop suggestions in the comments for any specific content you'd like to see. 
+* I’m a Software Engineer and Game Developer working with Unreal Engine, C++, Python, PyGame, and Godot, specializing in ArchViz, Virtual Reality, Synthetic Data Generation, Digital Twin technology, and Video Games.
+* I enjoy writing GLSL computer shaders from time to time as well. If you are into computer graphics and shaders, you can check those out on my [Shadertoy](https://www.shadertoy.com/user/Munucrafts/sort=newest) profile.
+* I'm also publishing GameDev and programming content on my YouTube channel [Munucrafts](https://www.youtube.com/@munucrafts) whenever possible. If you're into that stuff, consider subscribing, and feel free to drop suggestions in the comments for any specific content you'd like to see. 
 
 ## Skills
 
