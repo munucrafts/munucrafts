@@ -9,8 +9,9 @@
 
 ![Game Programming](https://img.shields.io/badge/Game%20Programming-1E90FF?style=for-the-badge&logoColor=white)
 ![Shader Programming](https://img.shields.io/badge/Shader%20Programming-5E60CE?style=for-the-badge&logoColor=white)
-![Unreal Engine ( C++ & Blueprints )](https://img.shields.io/badge/Unreal%20Engine%20(%20C++%20&%20Blueprints%20)-0076CC?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%20-0076CC?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unreal Blueprints](https://img.shields.io/badge/Unreal%20Blueprints-00599C?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![GLSL](https://img.shields.io/badge/glsl-5E60CE?style=for-the-badge&logo=opengl&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyGame](https://img.shields.io/badge/PyGame-00C300?style=for-the-badge&logo=python&logoColor=white)
