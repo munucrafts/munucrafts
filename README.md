@@ -8,10 +8,12 @@
 ## Skills
 
 ![Game Programming](https://img.shields.io/badge/Game%20Programming-1E90FF?style=for-the-badge&logoColor=white)
+![Graphics Programming](https://img.shields.io/badge/Shader%20Programming-5E60CE?style=for-the-badge&logoColor=white)
 ![Shader Programming](https://img.shields.io/badge/Shader%20Programming-5E60CE?style=for-the-badge&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%20-0076CC?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Unreal Blueprints](https://img.shields.io/badge/Unreal%20Blueprints-00599C?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5E60CE?style=for-the-badge&logo=opengl&logoColor=white)
 ![GLSL](https://img.shields.io/badge/glsl-5E60CE?style=for-the-badge&logo=opengl&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyGame](https://img.shields.io/badge/PyGame-00C300?style=for-the-badge&logo=python&logoColor=white)
@@ -29,6 +31,9 @@
 ## Public Repositories
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px;">
+   <a href="https://github.com/munucrafts/Shade-X" style="display: block; max-width: 1000px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=Shade-X&theme=dark" alt="Shade-X" style="width: 421px;" />
+  </a>
   <a href="https://github.com/munucrafts/UE-ArchViz-Multiplayer" style="display: block; max-width: 1000px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-ArchViz-Multiplayer&theme=dark" alt="UE-ArchViz-Multiplayer" style="width: 421px;" />
   </a>
