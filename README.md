@@ -26,33 +26,31 @@
 ![Canva](https://img.shields.io/badge/Canva-FF5C8D?style=for-the-badge&logo=canva&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-1A75FF?style=for-the-badge&logo=ByteDance&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munucrafts&layout=compact&theme=dark&hide=html,CSS&card_width=1000)
-
 ## Public Repositories
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px;">
-   <a href="https://github.com/munucrafts/Shade-X" style="display: block; max-width: 1000px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=Shade-X&theme=dark" alt="Shade-X" style="width: 421px;" />
-  </a>
+<a href="https://github.com/munucrafts/Shade-X">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=Shade-X&theme=github_dark" alt="Shade-X" style="width: 421px;" />
+</a>
   <a href="https://github.com/munucrafts/UE-ArchViz-Multiplayer" style="display: block; max-width: 1000px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-ArchViz-Multiplayer&theme=dark" alt="UE-ArchViz-Multiplayer" style="width: 421px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-ArchViz-Multiplayer&theme=github_dark" alt="UE-ArchViz-Multiplayer" style="width: 421px;" />
   </a>
   <a href="https://github.com/munucrafts/CPP-UE-GetThumbnails" style="display: block; max-width: 1000px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-GetThumbnails&theme=dark" alt="CPP-UE-GetThumbnails" style="width: 421px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-GetThumbnails&theme=github_dark" alt="CPP-UE-GetThumbnails" style="width: 421px;" />
   </a>
   <a href="https://github.com/munucrafts/CPP-UE-Hoverboard" style="display: block; max-width: 1000px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-Hoverboard&theme=dark" alt="CPP-UE-Hoverboard" style="width: 421px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-Hoverboard&theme=github_dark" alt="CPP-UE-Hoverboard" style="width: 421px;" />
   </a>
   <a href="https://github.com/munucrafts/UE-Pack-Zip-S3upload" style="display: block; max-width: 1000px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-Pack-Zip-S3upload&theme=dark" alt="UE-Pack-Zip-S3upload" style="width: 421px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-Pack-Zip-S3upload&theme=github_dark" alt="UE-Pack-Zip-S3upload" style="width: 421px;" />
   </a>
   <a href="https://github.com/munucrafts/GD-Pixelo-PixelArtMaker" style="display: block; max-width: 1000px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=GD-Pixelo-PixelArtMaker&theme=dark" alt="GD-Pixelo-PixelArtMaker" style="width: 421px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=GD-Pixelo-PixelArtMaker&theme=github_dark" alt="GD-Pixelo-PixelArtMaker" style="width: 421px;" />
   </a>
   <a href="https://github.com/munucrafts/PY-DesktopPet-Ducky" style="display: block; max-width: 1000px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DesktopPet-Ducky&theme=dark" alt="PY-DesktopPet-Ducky" style="width: 421px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DesktopPet-Ducky&theme=github_dark" alt="PY-DesktopPet-Ducky" style="width: 421px;" />
   </a>
   <a href="https://github.com/munucrafts/PY-DynamicParticleSystem" style="display: block; max-width: 1000px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DynamicParticleSystem&theme=dark" alt="PY-DynamicParticleSystem" style="width: 421px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DynamicParticleSystem&theme=github_dark" alt="PY-DynamicParticleSystem" style="width: 421px;" />
   </a>
 </div>
