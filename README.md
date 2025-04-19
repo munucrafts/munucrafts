@@ -16,21 +16,21 @@
 <h2 align="center">Skills</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Game%20Programming-1E90FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Graphics%20Programming-5E60CE?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shader%20Programming-5E60CE?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0076CC?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal%20Blueprints-00599C?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenGL-5E60CE?style=for-the-badge&logo=opengl&logoColor=white" />
-  <img src="https://img.shields.io/badge/GLSL-5E60CE?style=for-the-badge&logo=opengl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyGame-00C300?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-1A75FF?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Virtual%20Reality-0A66C2?style=for-the-badge&logo=oculus&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArchViz-FF8C00?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Digital%20Twin-3CB371?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game%20Programming-3498DB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Graphics%20Programming-9B59B6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shader%20Programming-8E44AD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-16A085?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-F39C12?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal%20Blueprints-2980B9?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-1ABC9C?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLSL-27AE60?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-9B59B6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyGame-16A085?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-00B16A?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F39C12?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtual%20Reality-8E44AD?style=for-the-badge&logo=oculus&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArchViz-E74C3C?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Twin-2ECC71?style=for-the-badge&logo=digitalocean&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-FF5C8D?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/CapCut-1A75FF?style=for-the-badge&logo=ByteDance&logoColor=white" />
