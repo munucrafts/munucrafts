@@ -30,35 +30,35 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <a href="https://github.com/munucrafts/Shade-X">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=Shade-X&theme=graywhite" 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=Shade-X&theme=dark&border_color=5E60CE" 
          alt="Shade-X" style="transform: scale(1.12, 0.85); transform-origin: top;" />
   </a>
   <a href="https://github.com/munucrafts/UE-ArchViz-Multiplayer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-ArchViz-Multiplayer&theme=graywhite" 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-ArchViz-Multiplayer&theme=dark&border_color=5E60CE" 
          alt="UE-ArchViz-Multiplayer" style="transform: scale(1.12, 0.85); transform-origin: top;" />
   </a>
   <a href="https://github.com/munucrafts/CPP-UE-GetThumbnails">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-GetThumbnails&theme=graywhite" 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-GetThumbnails&theme=dark&border_color=5E60CE" 
          alt="CPP-UE-GetThumbnails" style="transform: scale(1.12, 0.85); transform-origin: top;" />
   </a>
   <a href="https://github.com/munucrafts/CPP-UE-Hoverboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-Hoverboard&theme=graywhite" 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=CPP-UE-Hoverboard&theme=dark&border_color=5E60CE" 
          alt="CPP-UE-Hoverboard" style="transform: scale(1.12, 0.85); transform-origin: top;" />
   </a>
   <a href="https://github.com/munucrafts/UE-Pack-Zip-S3upload">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-Pack-Zip-S3upload&theme=graywhite" 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-Pack-Zip-S3upload&theme=dark&border_color=5E60CE" 
          alt="UE-Pack-Zip-S3upload" style="transform: scale(1.12, 0.85); transform-origin: top;" />
   </a>
   <a href="https://github.com/munucrafts/GD-Pixelo-PixelArtMaker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=GD-Pixelo-PixelArtMaker&theme=graywhite" 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=GD-Pixelo-PixelArtMaker&theme=dark&border_color=5E60CE" 
          alt="GD-Pixelo-PixelArtMaker" style="transform: scale(1.12, 0.85); transform-origin: top;" />
   </a>
   <a href="https://github.com/munucrafts/PY-DesktopPet-Ducky">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DesktopPet-Ducky&theme=graywhite" 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DesktopPet-Ducky&theme=dark&border_color=5E60CE" 
          alt="PY-DesktopPet-Ducky" style="transform: scale(1.12, 0.85); transform-origin: top;" />
   </a>
   <a href="https://github.com/munucrafts/PY-DynamicParticleSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DynamicParticleSystem&theme=graywhite" 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DynamicParticleSystem&theme=dark&border_color=5E60CE" 
          alt="PY-DynamicParticleSystem" style="transform: scale(1.12, 0.85); transform-origin: top;" />
   </a>
 </div>
