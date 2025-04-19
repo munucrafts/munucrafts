@@ -1,8 +1,9 @@
 <h1 align="center">Hey, I'm <a href="https://www.munucrafts.com/" target="_blank">Sarthak</a> 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer%20/%20Unreal%20Engine%20Developer-5E60CE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Engineer%20%7C%20Unreal%20Engine%20Developer-5E60CE?style=flat" />
 </p>
+
 
 <p align="center">
   I work with Unreal Engine, C++, Python, Godot, ArchViz, VR, Synthetic Data Generation, Digital Twin, and Video Games.
