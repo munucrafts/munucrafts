@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm <a href="https://www.munucrafts.com/" target="_blank">Sarthak</a> 👋</h1>
+<h1 align="center">Hey, I'm <a href="https://www.munucrafts.com/" target="_blank">Sarthak.</a></h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer%20%7C%20Unreal%20Engine%20Developer-5E60CE?style=flat" />
