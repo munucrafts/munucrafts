@@ -12,9 +12,7 @@
   I'm also publishing GameDev and programming content on my <a href="https://www.youtube.com/@munucrafts">YouTube</a> channel. If you're into that stuff, please consider subscribing.
 </p>
 
----
-
-<h2 align="center">⚡ Skills</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Game%20Programming-1E90FF?style=for-the-badge&logoColor=white" />
@@ -37,9 +35,7 @@
   <img src="https://img.shields.io/badge/CapCut-1A75FF?style=for-the-badge&logo=ByteDance&logoColor=white" />
 </p>
 
----
-
-<h2 align="center">🚀 Public Repositories</h2>
+<h2 align="center">Public Repositories</h2>
 
 <p align="center">
   <a href="https://github.com/munucrafts/Shade-X">
@@ -66,10 +62,4 @@
   <a href="https://github.com/munucrafts/PY-DynamicParticleSystem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=PY-DynamicParticleSystem&theme=dark&border_color=5E60CE" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building cool stuff. Always learning. Always shipping.</i> 🚀
 </p>
