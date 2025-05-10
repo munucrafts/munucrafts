@@ -42,6 +42,9 @@
   <a href="https://github.com/munucrafts/Shade-X">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=Shade-X&theme=dark&border_color=5E60CE" />
   </a>
+    <a href="https://github.com/munucrafts/Rayzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=Rayzer&theme=dark&border_color=5E60CE" />
+  </a>
   <a href="https://github.com/munucrafts/UE-ArchViz-Multiplayer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=munucrafts&repo=UE-ArchViz-Multiplayer&theme=dark&border_color=5E60CE" />
   </a>
