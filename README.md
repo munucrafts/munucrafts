@@ -4,9 +4,6 @@
 ![Game Programmer](https://img.shields.io/badge/Game%20Programmer-27ae60?style=flat&logoColor=white)
 ![Unreal Engine Developer](https://img.shields.io/badge/Unreal%20Engine%20Developer-2980b9?style=flat&logo=unreal)
 
-
-## Projects
-
 <table>
   <tr>
     <td><b><a href="https://github.com/munucrafts/Shade-X" style="color:#ff7f50;">Shade-X</a></b></td>
