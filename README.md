@@ -12,6 +12,7 @@
 
 
 <!-- Projects Table -->
+## Projects :
 <table>
   <tr>
     <td><b><a href="https://github.com/munucrafts/Shade-X" style="color:#ff7f50;">Shade-X</a></b></td>
@@ -47,6 +48,6 @@
   </tr>
   <tr>
     <td><b><a href="https://github.com/munucrafts/PY-DynamicParticleSystem" style="color:#2e8b57;">PY-DynamicParticleSystem</a></b></td>
-    <td>Python Based Real-time Particle System with Adjustable Properties.</td>
+    <td>Python-Based Real-time Particle System with Adjustable Properties.</td>
   </tr>
 </table>
