@@ -1,6 +1,8 @@
-<!-- Animated Heading -->
+<!-- Animated Heading with Link -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&center=false&vCenter=true&width=600&lines=Hi,+I'm+Sarthak.;Hi,+I'm+Munucrafts." alt="Typing SVG" />
+  <a href="https://Munucrafts.com" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&center=false&vCenter=true&width=600&lines=Hi,+I'm+Sarthak.;Hi,+I'm+Munucrafts." alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- Badges -->
@@ -21,7 +23,7 @@
   </tr>
   <tr>
     <td><b><a href="https://github.com/munucrafts/UE-ArchViz-Multiplayer" style="color:#32cd32;">UE-ArchViz-Multiplayer</a></b></td>
-    <td>Real-time Architectural Visualization in Unreal Engine with Multiplayer Support Using C++ & Blueprints.</td>
+    <td>Multiplayer Architectural Visualization in Unreal Engine Using C++ & Blueprints.</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/munucrafts/CPP-UE-GetThumbnails" style="color:#ffa500;">CPP-UE-GetThumbnails</a></b></td>
