@@ -6,7 +6,7 @@
 </p>
 
 <!-- Badges -->
-![Graphics Programmer](https://img.shields.io/badge/Graphics%20Programming-C0392B?style=for-the-badge)
+![Graphics Programmer](https://img.shields.io/badge/Graphics%20Programmer-C0392B?style=for-the-badge)
 ![Game Programmer](https://img.shields.io/badge/Game%20Programmer-27AE60?style=for-the-badge)
 ![Unreal Engine Developer](https://img.shields.io/badge/Unreal%20Engine%20Developer-0055FF?style=for-the-badge)
 
