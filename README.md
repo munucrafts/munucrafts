@@ -1,9 +1,12 @@
-<!-- Animated Heading with Link -->
 <p align="left">
   <a href="https://Munucrafts.com" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&center=false&vCenter=true&width=600&lines=Hi,+I'm+Sarthak.;Hi,+I'm+Munucrafts." alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&duration=3000&pause=1000&color=0AFF9D&vCenter=true&width=800&lines=Hi,+I'm+Sarthak.;Hi,+I'm+Munucrafts." 
+      alt="Typing SVG"
+    />
   </a>
 </p>
+
 
 <!-- Badges -->
 ![Graphics Programmer](https://img.shields.io/badge/Graphics%20Programmer-C0392B?style=for-the-badge)
