@@ -15,6 +15,10 @@
 <!-- Projects Table -->
 ## Projects :
 <table width="100%">
+    <tr>
+    <td><b><a href="https://github.com/munucrafts/Rocken-Raster" style="color:#ff7f50;">Rocken-Raster</a></b></td>
+    <td>Rocken Raster is a CPU-based Software Rasterizer made in C++.</td>
+  </tr>
   <tr>
     <td><b><a href="https://github.com/munucrafts/Shade-X" style="color:#ff7f50;">Shade-X</a></b></td>
     <td>A Graphics Wallpaper Application with OpenGL and ImGui Using C++.</td>
