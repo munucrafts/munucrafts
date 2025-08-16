@@ -10,12 +10,12 @@
 
 - 🫡 Hi, I'm **Sarthak / Munucrafts**.  
 - 📺 I am into **Computer Graphics Programming**, **Game Programming**, and **Unreal Engine**.  
-- 🖼️ I love building **Graphics Engines, Renderers, Video Games, and Experimental Projects** that require multi-dimensional skills.  
+- 🖼️ I love building **Graphics Engines, Renderers, Video Games, and Experimental Projects** that explore multi-dimensional skills.
 
 ## 📚 Learning & Building
 
-- 🔭 Currently working on **Rocken Raster**, a CPU-based Software Rasterizer in **C++**.
-- 🌱 Learning **Advanced Graphics Programming with Vulkan**.
+- 🔭 Currently working on **Rocken Raster**, a **CPU-based Software Rasterizer** in **C++**.
+- 🌱 Learning **Advanced Graphics Programming** with **Vulkan**.
 - ✨ Exploring **AI/ML** in my free time.
 
 <!-- Projects Table -->
