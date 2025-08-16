@@ -1,19 +1,23 @@
-<p align="left">
-  <a href="https://Munucrafts.com" target="_blank">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&duration=3000&pause=1000&color=0AFF9D&vCenter=true&width=800&lines=Hi,+I'm+Sarthak.;Hi,+I'm+Munucrafts." 
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&duration=3000&pause=1000&color=00F5D4&vCenter=true&width=800&lines=Hi,+I'm+Sarthak.;Hi,+I'm+Munucrafts.)
 
-<!-- Badges -->
-![Graphics Programmer](https://img.shields.io/badge/Graphics%20Programmer-C0392B?style=for-the-badge)
-![Game Programmer](https://img.shields.io/badge/Game%20Programmer-27AE60?style=for-the-badge)
-![Unreal Engine Developer](https://img.shields.io/badge/Unreal%20Engine%20Developer-0055FF?style=for-the-badge)
+<p align="left"> <img src="https://img.shields.io/badge/Graphics%20Programmer-%23FF5733?style=for-the-badge&logoColor=white"/> 
+                 <img src="https://img.shields.io/badge/Game%20Programmer-%2300C853?style=for-the-badge&logoColor=white"/> 
+                 <img src="https://img.shields.io/badge/Unreal%20Engine%20Developer-%230055FF?style=for-the-badge&logoColor=white"/> </p>
+
+## 👨‍💻 Bio  
+
+- 🫡 Hi, I'm **Sarthak / Munucrafts**.  
+- 📺 I am into **Computer Graphics Programming**, **Game Programming**, and **Unreal Engine**.  
+- 🖼️ I love building **Graphics Engines, Renderers, Video Games, and Experimental Projects** that require multi-dimensional skills.  
+
+---
+
+- 🔭 Currently working on **Rocken Raster**, a CPU-based Software Rasterizer in **C++**.
+- 🌱 Learning **Advanced Graphics Programming with Vulkan**.
+- ✨ Exploring **AI/ML** in my free time.
 
 <!-- Projects Table -->
-## Projects :
+## 🛩️ Projects :
 <table width="100%">
     <tr>
     <td><b><a href="https://github.com/munucrafts/Rocken-Raster" style="color:#ff7f50;">Rocken-Raster</a></b></td>
@@ -56,10 +60,3 @@
     <td>Python-Based Real-time Particle System with Adjustable Properties.</td>
   </tr>
 </table>
-
-## Get in Touch :
-
-Feel free to reach out for collaboration, questions, or just to say hi!
-
-- 🌐 [Munucrafts.com](https://munucrafts.com)
-- 💼 [LinkedIn](https://linkedin.com/in/munucrafts)
