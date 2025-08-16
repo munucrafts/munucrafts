@@ -2,7 +2,8 @@
 
 <p align="left"> <img src="https://img.shields.io/badge/Graphics%20Programmer-%23FF5733?style=for-the-badge&logoColor=white"/> 
                  <img src="https://img.shields.io/badge/Game%20Programmer-%2300C853?style=for-the-badge&logoColor=white"/> 
-                 <img src="https://img.shields.io/badge/Unreal%20Engine%20Developer-%230055FF?style=for-the-badge&logoColor=white"/> </p>
+                 <img src="https://img.shields.io/badge/Unreal%20Engine%20Developer-%230055FF?style=for-the-badge&logoColor=white"/> 
+</p>
 
 ## 👨‍💻 Bio  
 
@@ -10,7 +11,7 @@
 - 📺 I am into **Computer Graphics Programming**, **Game Programming**, and **Unreal Engine**.  
 - 🖼️ I love building **Graphics Engines, Renderers, Video Games, and Experimental Projects** that require multi-dimensional skills.  
 
----
+## 📚 Learning & Building
 
 - 🔭 Currently working on **Rocken Raster**, a CPU-based Software Rasterizer in **C++**.
 - 🌱 Learning **Advanced Graphics Programming with Vulkan**.
