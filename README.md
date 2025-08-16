@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&duration=3000&pause=1000&color=00F5D4&vCenter=true&width=800&lines=Hi,+I'm+Sarthak.;Hi,+I'm+Munucrafts.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=50&duration=3000&pause=1000&color=FFD700&vCenter=true&width=800&lines=Hi,+I'm+Sarthak.;Hi,+I'm+Munucrafts.)
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Graphics%20Programmer-0366d6?style=flat&logoColor=white"/> 
@@ -6,15 +6,15 @@
   <img src="https://img.shields.io/badge/Unreal%20Engine%20Developer-6f42c1?style=flat&logoColor=white"/> 
 </p>
 
-## 👨‍💻 Bio  
+## 🧔🏻‍♂️ Bio  
 
-- 🫡 Hi, I'm **Sarthak / Munucrafts**.  
+- 🙋🏻‍♂️ Hi, I'm **Sarthak / Munucrafts**.  
 - 📺 I am into **Computer Graphics Programming**, **Game Programming**, and **Unreal Engine**.  
 - 🖼️ I love building **Graphics Engines, Renderers, Video Games, and Experimental Projects** that explore multi-dimensional skills.
 
 ## 📚 Learning & Building
 
-- 🔭 Currently working on **Rocken Raster**, a **CPU-based Software Rasterizer** in **C++**.
+- 🤖 Currently working on **Rocken Raster**, a **CPU-based Software Rasterizer** in **C++**.
 - 🌱 Learning **Advanced Graphics Programming** with **Vulkan**.
 - ✨ Exploring **AI/ML** in my free time.
 
