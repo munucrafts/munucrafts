@@ -6,9 +6,9 @@
   <img src="https://img.shields.io/badge/Unreal%20Engine%20Developer-6f42c1?style=flat&logoColor=white"/> 
 </p>
 
-## 🧔🏻‍♂️ Bio  
+## 🧔🏻‍♂️ Bio
 
-- 🙋🏻‍♂️ Hi, I'm **Sarthak / Munucrafts**.  
+- 🙋🏻‍♂️ Hi, I'm **Sarthak / Munucrafts**.
 - 📺 I am into **Computer Graphics Programming**, **Game Programming**, and **Unreal Engine**.  
 - 🖼️ I love building **Graphics Engines, Renderers, Video Games, and Experimental Projects** that explore multi-dimensional skills.
 
@@ -18,8 +18,7 @@
 - 🌱 Learning **Advanced Graphics Programming** with **Vulkan**.
 - ✨ Exploring **AI/ML** in my free time.
 
-<!-- Projects Table -->
-## 🛩️ Projects :
+## 🛩️ Projects
 <table width="100%">
     <tr>
     <td><b><a href="https://github.com/munucrafts/Rocken-Raster" style="color:#ff7f50;">Rocken-Raster</a></b></td>
@@ -62,3 +61,7 @@
     <td>Python-Based Real-time Particle System with Adjustable Properties.</td>
   </tr>
 </table>
+
+## 📫 Connect
+
+- 📮 Feel free to reach out to me via [Email](mailto:fff@gamil.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/munucrafts/) for collaborations, advice, or just to say hi.
