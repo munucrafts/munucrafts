@@ -64,4 +64,4 @@
 
 ## 📫 Connect
 
-- 📮 Feel free to reach out to me via [Email](sarthakmishra520@gamil.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/munucrafts/) for collaborations, advice, or just to say hi.
+- 📮 Feel free to reach out to me via [Email](mailto:sarthakmishra520@gamil.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/munucrafts/) for collaborations, advice, or just to say hi.
