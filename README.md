@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=50&duration=3000&pause=1000&color=FFD700&vCenter=true&width=800&lines=Hi,+I'm+Sarthak.;Hi,+I'm+Munucrafts.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=50&duration=3000&pause=1000&color=ffffff&vCenter=true&width=800&lines=Hi,+I'm+Sarthak.;Hi,+I'm+Munucrafts.)
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Graphics%20Programmer-0366d6?style=flat&logoColor=white"/> 
