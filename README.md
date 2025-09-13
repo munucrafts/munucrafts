@@ -22,9 +22,8 @@
 
 |Name|Description|
 |:------------- |:-------------|
-| 🖼️ [Rocken-Raster](https://github.com/munucrafts/Rocken-Raster) | Rocken Raster is a CPU-based Software Rasterizer made in C++. |
-| 🌌 [Shade-X](https://github.com/munucrafts/Shade-X) | A Graphics Wallpaper Application with OpenGL and ImGui Using C++. |
-| 🔦 [Rayzer](https://github.com/munucrafts/Rayzer) | A CPU Ray Tracer using C++ for Educational Purposes. |
+| 🖼️ [Rocken-Raster](https://github.com/munucrafts/Rocken-Raster) | Rocken Raster is a CPU-based Software Rasterizer Made in C++. |
+| 🔦 [Rayzer](https://github.com/munucrafts/Rayzer) | A CPU Ray Tracer using C++ to Learn About Ray-Tracing. |
 | 🏛️ [UE-ArchViz-Multiplayer](https://github.com/munucrafts/UE-ArchViz-Multiplayer) | Multiplayer Architectural Visualization in Unreal Engine Using C++ & Blueprints. |
 | 📸 [CPP-UE-GetThumbnails](https://github.com/munucrafts/CPP-UE-GetThumbnails) | Unreal Engine Plugin to Extract Thumbnails of Assets in Content Browser as PNG Files. |
 | 🛹 [CPP-UE-Hoverboard](https://github.com/munucrafts/CPP-UE-Hoverboard) | Unreal Engine C++ Hoverboard Movement System. |
