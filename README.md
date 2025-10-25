@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=50&duration=3000&pause=1000&color=fffff0&vCenter=true&width=800&lines=Hi,+I'm+Sarthak.;Hi,+I'm+Munucrafts.)](https://www.munucrafts.com/?font=Roboto&size=50&duration=3000&pause=1000&color=fff000&vCenter=true&width=800&lines=Hi,+I'm+Sarthak.;Hi,+I'm+Munucrafts.
-)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=50&duration=3000&pause=1000&color=ADFF2F&vCenter=true&width=800&lines=Hi,+I%27m+Sarthak.;Hi,+I%27m+Munucrafts.)](https://www.munucrafts.com/)
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Graphics%20Programmer-0366d6?style=flat&logoColor=white"/> 
