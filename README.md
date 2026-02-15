@@ -14,9 +14,7 @@
 
 ## 📚 Learning & Building
 
-- 🤖 Currently working on **[Rocken Raster](https://github.com/munucrafts/Rocken-Raster)**, a **CPU-based Software Rasterizer** in **C++**.
-- 🌱 Buiilding my own  **Graphics Engine** using **OpenGL and C++**.
-- ✨ Exploring **AI/ML** in my free time.
+- 🌱 Currently working on **[Kofu Engine](https://github.com/munucrafts/Kofu-Engine)**, my own **Hobby Graphics Engine** using **OpenGL and C++**.
 
 ## 🛩️ Projects
 
