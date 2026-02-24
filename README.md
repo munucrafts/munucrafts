@@ -14,7 +14,8 @@
 
 ## 📚 Learning & Building
 
-- 🌱 Currently working on **[Kofu Engine](https://github.com/munucrafts/Kofu-Engine)** (Private at the moment), my own **Hobby Graphics Engine** using **OpenGL and C++**.
+- 🌱 Working on **[Kofu Engine](https://github.com/munucrafts/Kofu-Engine)** (Private at the moment), my own **Hobby Game Engine** using **OpenGL and C++**.
+- 🛠️ Enhancing my **Software Rasterizer**, **[Rocken Raster](https://github.com/munucrafts/Rocken-Raster)** by implementing **Multi-threading Rendering**. 
 
 ## 🛩️ Projects
 
