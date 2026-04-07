@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=50&duration=3000&pause=1000&color=ADFF2F&vCenter=true&width=800&lines=Hi,+I%27m+Sarthak.;Hi,+I%27m+Munucrafts.)](https://www.munucrafts.com/)
 
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Graphics%20Programmer-0366d6?style=flat&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Game%20Programmer-22863a?style=flat&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Unreal%20Engine%20Developer-6f42c1?style=flat&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Graphics%20Programmer-0366d6?style=for-the-badge&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Game%20Programmer-22863a?style=for-the-badge&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Unreal%20Engine%20Developer-6f42c1?style=for-the-badge&logoColor=white"/> 
 </p>
 
 ## 🧔🏻‍♂️ Bio
