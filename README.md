@@ -13,7 +13,7 @@
 
 ## 📚 Learning & Building
 
-- 🌱 Working on **[Kofu Engine](https://github.com/munucrafts/Kofu-Engine)** (Private), my own **Hobby Game Engine** using **OpenGL and C++**.
+- 🌱 Working on **[Kofu Engine](https://github.com/munucrafts/Kofu-Engine)** - my own **Hobby Game Engine** using **OpenGL and C++**.
 
 ## 🛩️ Projects
 
