@@ -19,7 +19,7 @@
 
 |Name|Description|
 |:------------- |:-------------|
-| 🤖 [Kofu Engine](https://github.com/munucrafts/Kofu-Engine) | Kofu Engine is a OpenGL powered Hobby Graphics Engine Made in C++. |
+| 🤖 [Kofu Engine](https://github.com/munucrafts/Kofu-Engine) | Kofu Engine is an OpenGL-powered Hobby Graphics Engine made in C++. |
 | 🖼️ [Rocken Raster](https://github.com/munucrafts/Rocken-Raster) | Rocken Raster is a CPU-based Software Rasterizer Made in C++. |
 | 🔦 [Rayzer](https://github.com/munucrafts/Rayzer) | A CPU Ray Tracer using C++ to Learn About Ray-Tracing. |
 | 🏛️ [UE-ArchViz-Multiplayer](https://github.com/munucrafts/UE-ArchViz-Multiplayer) | Multiplayer Architectural Visualization in Unreal Engine Using C++ & Blueprints. |
